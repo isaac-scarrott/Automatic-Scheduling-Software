@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CityChurchGrimsbyProject", "CityChurchGrimsbyProject\CityChurchGrimsbyProject.vbproj", "{61613BD1-D302-448D-BC55-D0A4E4E8D612}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{98EAC848-F32A-4DA2-88E4-3A683A4F3F0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61613BD1-D302-448D-BC55-D0A4E4E8D612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61613BD1-D302-448D-BC55-D0A4E4E8D612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61613BD1-D302-448D-BC55-D0A4E4E8D612}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{61613BD1-D302-448D-BC55-D0A4E4E8D612}.Debug|x86.Build.0 = Debug|Any CPU
+		{61613BD1-D302-448D-BC55-D0A4E4E8D612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61613BD1-D302-448D-BC55-D0A4E4E8D612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61613BD1-D302-448D-BC55-D0A4E4E8D612}.Release|x86.ActiveCfg = Release|x86
+		{61613BD1-D302-448D-BC55-D0A4E4E8D612}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
